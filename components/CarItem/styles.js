@@ -23,6 +23,14 @@ const styles = StyleSheet.create({
         height: '100%',
         resizeMode: "cover",
         position: "absolute"
+    },
+    buttonsGroup: {
+        position: "absolute",
+        width: '100%',
+        bottom: 50
+    },
+    tagLineCTA: {
+        textDecorationLine: "underline",
     }
 })
 
